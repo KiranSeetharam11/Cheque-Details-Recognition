@@ -26,6 +26,8 @@ For the transactions dataset, we used Chat-GPT to generate random list of 10 Acc
 
 
 ## Run Locally
+Transaction.csv has the updates row after model ran once.
+To experience the model working with sample image given (new2.png) , use initialtransaction.csv on local device and change code accordingly
 
 To run this project locally, ensure you have the following libraries installed:
 
